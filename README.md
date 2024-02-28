@@ -6,7 +6,7 @@
 4. Zgłoszenia chętnych na dokładne sprawdzenie.
 5. Pytania?
 6. Omówienie testowego repozytorium.
-7. Zadania do samodzielnego wykonania.
+7. Zadania do samodzielnego wykonania [link](Zadania.md)
 
 ## Pomcne materiały
 
