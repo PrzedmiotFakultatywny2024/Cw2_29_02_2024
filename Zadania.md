@@ -1,6 +1,6 @@
 ### Zadanie 1: Lista zakupów z formularzem
 
-**Cel:** Stworzenie strony internetowej z formularzem, w którym użytkownik może wpisać nazwę produktu do kupienia. Po wysłaniu formularza, strona powinna wyświetlić aktualną listę zakupów z dodanym nowym produktem.
+**Cel:** Stworzenie strony internetowej z formularzem, w którym użytkownik może wpisać nazwę produktu do kupienia. Po wysłaniu formularza, strona powinna wyświetlić listę zakupów z dodanym nowym produktem.
 
 **Wymagania:**
 1. Użyj HTML do stworzenia prostego formularza z jednym polem tekstowym (dla nazwy produktu) i przyciskiem do wysyłania formularza.
