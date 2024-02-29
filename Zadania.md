@@ -5,7 +5,7 @@
 **Wymagania:**
 1. Użyj HTML do stworzenia prostego formularza z jednym polem tekstowym (dla nazwy produktu) i przyciskiem do wysyłania formularza.
 2. Metoda przesyłania danych formularza powinna być ustawiona na `GET`.
-3. W pliku PHP, odbierz dane z formularza i użyj ich do dodania produktu do listy zakupów przechowywanej lub tablicy.
+3. ~~W pliku PHP, odbierz dane z formularza i użyj ich do dodania produktu do listy zakupów przechowywanej tablicy.~~
 4. ~~Wyświetl aktualną listę zakupów jako listę punktowaną (lub numerowaną, jeśli preferujesz) pod formularzem.~~ 
 5. ~~Każde nowe wysłanie formularza powinno aktualizować listę zakupów o nowy produkt.~~ 
 
@@ -22,14 +22,14 @@
 **Wymagania:**
 1. Strona powinna zawierać formularz z polem tekstowym do wpisywania nazwy zadania i przyciskiem do dodawania zadania do listy.
 2. Metoda przesyłania formularza powinna być `POST`, aby zapewnić bezpieczeństwo danych użytkownika.
-3. W pliku PHP, odbierz dane z formularza i użyj ich do dodania nowego zadania do listy zadań przechowywanej w sesji lub tablicy.
+3. ~~W pliku PHP, odbierz dane z formularza i użyj ich do dodania nowego zadania do listy zadań przechowywanej tablicy.~~
 4. Pod formularzem wyświetl listę zadań do wykonania jako listę numerowaną, pokazując kolejność dodawania zadań.
 5. Opcjonalnie, dodaj możliwość usuwania zadań z listy.
 
 **Kroki:**
 - Utwórz formularz HTML, który przesyła dane do tego samego skryptu PHP za pomocą metody `POST`.
-- W PHP, sprawdź czy formularz został przesłany, a następnie odbierz i przetwarzaj dane z formularza.
-- Zaimplementuj logikę przechowywania listy zadań w sesji lub innej strukturze danych, aby utrzymać ją między żądaniami.
+- ~~W PHP, sprawdź czy formularz został przesłany, a następnie odbierz i przetwarzaj dane z formularza.~~
+- ~~Zaimplementuj logikę przechowywania listy zadań w sesji lub innej strukturze danych, aby utrzymać ją między żądaniami.~~
 - Wygeneruj listę zadań jako HTML, dodając każde nowe zadanie do listy.
 
 ### Zadanie 3: Wyświetlanie tabeli produktów
