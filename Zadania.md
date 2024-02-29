@@ -6,8 +6,8 @@
 1. Użyj HTML do stworzenia prostego formularza z jednym polem tekstowym (dla nazwy produktu) i przyciskiem do wysyłania formularza.
 2. Metoda przesyłania danych formularza powinna być ustawiona na `GET`.
 3. W pliku PHP, odbierz dane z formularza i użyj ich do dodania produktu do listy zakupów przechowywanej lub tablicy.
-~~ 4. Wyświetl aktualną listę zakupów jako listę punktowaną (lub numerowaną, jeśli preferujesz) pod formularzem.~~ 
-~~ 5. Każde nowe wysłanie formularza powinno aktualizować listę zakupów o nowy produkt.~~ 
+4. ~~ Wyświetl aktualną listę zakupów jako listę punktowaną (lub numerowaną, jeśli preferujesz) pod formularzem.~~ 
+5. ~~ Każde nowe wysłanie formularza powinno aktualizować listę zakupów o nowy produkt.~~ 
 
 **Kroki:**
 - Stwórz formularz HTML, który przekierowuje do tego samego skryptu PHP.
