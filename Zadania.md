@@ -24,7 +24,7 @@
 2. Metoda przesyłania formularza powinna być `POST`, aby zapewnić bezpieczeństwo danych użytkownika.
 3. ~~W pliku PHP, odbierz dane z formularza i użyj ich do dodania nowego zadania do listy zadań przechowywanej tablicy.~~
 4. Pod formularzem wyświetl listę zadań do wykonania jako listę numerowaną, pokazując kolejność dodawania zadań.
-5. Opcjonalnie, dodaj możliwość usuwania zadań z listy.
+5. ~~Opcjonalnie, dodaj możliwość usuwania zadań z listy.~~
 
 **Kroki:**
 - Utwórz formularz HTML, który przesyła dane do tego samego skryptu PHP za pomocą metody `POST`.
