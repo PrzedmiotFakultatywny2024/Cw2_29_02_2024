@@ -9,7 +9,7 @@
 7. Zadania do samodzielnego wykonania [link](Zadania.md)
 8. (opcjonalnie) Przypomnienie/odświeżenie informacji o MySQL (MariaDB).
 
-## Pomcne materiały
+## Pomocne materiały
 
 * https://www.w3schools.com/html/default.asp
 * https://www.w3schools.com/css/default.asp
