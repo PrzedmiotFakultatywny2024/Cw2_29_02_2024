@@ -3,7 +3,7 @@
 **Cel:** Stworzenie strony internetowej z formularzem, w którym użytkownik może wpisać nazwę produktu do kupienia. Po wysłaniu formularza, strona powinna wyświetlić listę zakupów z dodanym nowym produktem.
 
 **Wymagania:**
-1. Użyj HTML do stworzenia prostego formularza z jednym polem tekstowym (dla nazwy produktu) i przyciskiem do wysyłania formularza.
+1. Użyj HTML do stworzenia prostego formularza z kilokama polami tekstowymi (nazwy produktów) i przyciskiem do wysyłania formularza.
 2. Metoda przesyłania danych formularza powinna być ustawiona na `GET`.
 3. ~~W pliku PHP, odbierz dane z formularza i użyj ich do dodania produktu do listy zakupów przechowywanej tablicy.~~
 4. ~~Wyświetl aktualną listę zakupów jako listę punktowaną (lub numerowaną, jeśli preferujesz) pod formularzem.~~ 
@@ -20,7 +20,7 @@
 **Cel:** Umożliwienie użytkownikowi tworzenia własnej listy zadań do wykonania, z możliwością dodawania i wyświetlania zadań na stronie.
 
 **Wymagania:**
-1. Strona powinna zawierać formularz z polem tekstowym do wpisywania nazwy zadania i przyciskiem do dodawania zadania do listy.
+1. Strona powinna zawierać formularz z kilkoma polami tekstowymi do wpisywania nazw zadania i przyciskiem do dodawania zadania do listy.
 2. Metoda przesyłania formularza powinna być `POST`, aby zapewnić bezpieczeństwo danych użytkownika.
 3. ~~W pliku PHP, odbierz dane z formularza i użyj ich do dodania nowego zadania do listy zadań przechowywanej tablicy.~~
 4. Pod formularzem wyświetl listę zadań do wykonania jako listę numerowaną, pokazując kolejność dodawania zadań.
