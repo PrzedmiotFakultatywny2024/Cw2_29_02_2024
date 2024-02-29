@@ -7,7 +7,7 @@
 5. Pytania?
 6. Omówienie testowego repozytorium.
 7. Zadania do samodzielnego wykonania [link](Zadania.md)
-8. (opcjonalnie) Przypomnienie/odświeżenie informacji o MySQL (MariaDB).
+8. (opcjonalnie na za tydzień) Przypomnienie/odświeżenie informacji o MySQL (MariaDB).
 
 ## Pomocne materiały
 
